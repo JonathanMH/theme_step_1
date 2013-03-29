@@ -5,7 +5,10 @@ A one file theme as a starting point for anyone who wants to start building them
 The goal was to make the start a little simpler than the [\_s theme](http://underscores.me/)
 
 ## Theme Step 2
-Find it here: [Theme Step 2](https://github.com/JonathanMH/theme_step_2) 
+Find it here: [Theme Step 2](https://github.com/JonathanMH/theme_step_2)
+
+## Theme Step 3
+Find it here: [Theme Step 3](https://github.com/eriks-briedis/theme_step_3)
 
 ## Contact
 Quickly jotted down for a workshop. For more info get in touch:
